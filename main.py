@@ -205,7 +205,7 @@ def main():
 
     # Add user
     #person1 = face_recognition.load_image_file("./person1.jpg")
-    #face_system.add_new_user("Phongsathorn", "128", person1)
+    #face_system.add_new_user("NAME", "ID123", person1)
 
     try:
         face_system.recognize_faces()
